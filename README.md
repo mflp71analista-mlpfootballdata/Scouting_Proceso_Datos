@@ -28,7 +28,7 @@ Este repositorio reúne un conjunto de desarrollos en **Python** enfocados en la
 * **Métricas Relativas (Percentiles & Z-Score):** Evaluación comparativa de futbolistas dentro de su grupo de pares y competición.
 * **Similitud entre Equipos:** Cálculo de distancias y comparativa estadística del rendimiento global a nivel colectivo.
 
-### 4. Categorizar métricas Fútbol y cálculo de agregados*
+### 4. Categorizar métricas Fútbol y cálculo de agregados
 * **Categorizar métricas:** Categorizar métricas como, por ejemplo, Pases Progresivos, Recuperaciones rápidas o calcular agregados.
 
 ---
