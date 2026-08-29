@@ -1,5 +1,5 @@
-# ⚙️ Scouting y Procesado de datos de Fútbol (Python)
-* Procesamiento, ML & Scoring
+# ⚙️ Scouting y Procesado de datos de Fútbol (Python) 
+## Procesamiento, ML & Scoring
 
 Este repositorio reúne un conjunto de desarrollos en **Python** enfocados en la ingeniería de datos deportivos, estandarización de eventos multi-proveedor y creación de algoritmos de priorización y recomendación para secretarías técnicas y departamentos de analítica táctica.
 
